@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Operations Fundamentals.md",
+                "file": "Study Notes/CDC Notes/Security Operations Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Operations Fundamentals.md",
+                "file": "Study Notes/CDC Notes/Security Operations Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Operations Fundamentals.md",
+                "file": "Study Notes/CDC Notes/Security Operations Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Operations Fundamentals.md"
+                "file": "Study Notes/CDC Notes/Security Operations Fundamentals.md"
               }
             }
           }
@@ -155,8 +155,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c18afffba64d64d9",
+  "active": "cb81479580188e3a",
   "lastOpenFiles": [
-    "Security Operations Fundamentals.md"
+    "Study Notes/CDC Notes/Security Operations Fundamentals.md"
   ]
 }
