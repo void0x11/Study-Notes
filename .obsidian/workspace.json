@@ -33,26 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ca535105cb49cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "TryHackMe/Malware.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "TryHackMe/Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "TryHackMe/Malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "TryHackMe/Malware.md"
               }
             }
           }
@@ -179,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ca535105cb49cde",
+  "active": "cb81479580188e3a",
   "lastOpenFiles": [
-    "Malware.md",
+    "Untitled",
     "conflict-files-obsidian-git.md",
+    "TryHackMe/Malware.md",
     "Blue Team Notes/CDC Notes/Security Operations Fundamentals.md",
     "TryHackMe"
   ]
