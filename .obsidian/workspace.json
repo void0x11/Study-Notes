@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e36ceacc3cfbe65d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Malware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Notes/CDC Notes/Security Operations Fundamentals.md",
+                "file": "Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/CDC Notes/Security Operations Fundamentals.md",
+                "file": "Malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/CDC Notes/Security Operations Fundamentals.md"
+                "file": "Malware.md"
               }
             }
           }
@@ -155,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb81479580188e3a",
+  "active": "e36ceacc3cfbe65d",
   "lastOpenFiles": [
-    "Study Notes/CDC Notes/Security Operations Fundamentals.md"
+    "Study Notes/CDC Notes/Security Operations Fundamentals.md",
+    "Malware.md",
+    "TryHackMe"
   ]
 }
