@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/CDC Notes/Security Operations Fundamentals.md",
+                "file": "Blue Team Notes/CDC Notes/Security Operations Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,9 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e36ceacc3cfbe65d",
+  "active": "cb81479580188e3a",
   "lastOpenFiles": [
-    "Study Notes/CDC Notes/Security Operations Fundamentals.md",
+    "Blue Team Notes/CDC Notes/Security Operations Fundamentals.md",
     "Malware.md",
     "TryHackMe"
   ]
